@@ -26,4 +26,5 @@ public class EmployeeDTO {
     private String department;
 
     private double salary;
+
 }
